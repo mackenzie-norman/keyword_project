@@ -5,3 +5,9 @@ This journal will focus on the term body.
 
 ## Journal Entries
 - [Entry 1](entry1.pdf)
+- [Entry 2](entry2.pdf)
+- [Entry 3](entry3.pdf)
+- [Entry 4](entry4.pdf)
+- [Entry 5](entry5.pdf)
+- [Entry 6](entry6.pdf)
+- [Entry 7](entry7.pdf)
