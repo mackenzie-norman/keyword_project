@@ -11,3 +11,5 @@ This journal will focus on the term body.
 - [Entry 5](entry5.pdf)
 - [Entry 6](entry6.pdf)
 - [Entry 7](entry7.pdf)
+## Collated into 1 document 
+- [Full Document](full_document.pdf)
